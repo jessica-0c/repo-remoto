@@ -1,5 +1,5 @@
 
-# DIO resumoes Git e GitHub
+Git e GitHub
 
 Repositório para armazenar resumos
 
