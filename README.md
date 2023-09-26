@@ -1,2 +1,6 @@
-# repo-remoto
-repositório remoto
+
+# DIO resumoes Git e GitHub
+
+Repositório para armazenar resumos
+
+## 🤦‍♂️
